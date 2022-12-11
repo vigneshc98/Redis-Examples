@@ -1,12 +1,0 @@
-
-
-java:S1488"^Immediately return this expression instead of assigning it to the temporary variable "update".(·¬ĞÏúÿÿÿÿH¯RMINORZ
-CODE_SMELL
-
-java:S1488"^Immediately return this expression instead of assigning it to the temporary variable "update".(ûñÕ¦ùÿÿÿÿH²RMINORZ
-CODE_SMELL
-y	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ª¾ÅHµRMINORZ
-CODE_SMELL
-i
-java:S3878"8Remove this array creation and simply pass the elements.(ûñÕ¦ùÿÿÿÿH¶RMINORZ
-CODE_SMELL

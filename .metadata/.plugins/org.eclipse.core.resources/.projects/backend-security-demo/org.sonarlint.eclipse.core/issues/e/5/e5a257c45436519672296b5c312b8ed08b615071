@@ -1,21 +1,0 @@
-
-[
-java:S5411G"*Use the primitive boolean expression here.(Û¼·²ùÿÿÿÿH·RMINORZ
-CODE_SMELL
-
-java:S3776#"RRefactor this method to reduce its Cognitive Complexity from 20 to the 15 allowed.(³æÒñHºRCRITICALZ
-CODE_SMELL
-g	java:S125,"<This block of commented-out lines of code should be removed.(«ÜÆ—HÄRMAJORZ
-CODE_SMELL
-V
-java:S11970"*Move the array designators [] to the type.(œ¾ÇÒHÅRMINORZ
-CODE_SMELL
-l	java:S125:"<This block of commented-out lines of code should be removed.(òòŞÏüÿÿÿÿHÈRMAJORZ
-CODE_SMELL
-g	java:S125?"<This block of commented-out lines of code should be removed.(ÔÄßİHËRMAJORZ
-CODE_SMELL
-f	java:S125A"<This block of commented-out lines of code should be removed.(‹Ş’^HÌRMAJORZ
-CODE_SMELL
-
-java:S1128"_Remove this unused import 'org.springframework.security.core.authority.SimpleGrantedAuthority'.(– ‹ÌûÿÿÿÿHÍRMINORZ
-CODE_SMELL
